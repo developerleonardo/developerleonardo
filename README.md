@@ -23,11 +23,11 @@ I'm a Frontend developer based in Medellin, Colombia. I'm passionate about creat
 </td>
 
 <td width="50%">
-<h3 align="center">Todo Machine</h3>
+<h3 align="center">To-Do Titan</h3>
 <div align="center">
-<a href="https://developerleonardo.github.io/curso-react-intro/" target="_blank"><img src="https://i.imgur.com/VGxrhvw.png" width="400" alt="Todo Machine"></a>
-<p><a href="https://github.com/developerleonardo/curso-react-intro" target="_blank"><img src="https://img.shields.io/badge/logo-github-00F7FF%3Fgithub%3Dcode?style=plastic&logo=github&logoColor=black&label=Code&labelColor=white&color=%2300F7FF"></a></p>
-<p>TODO MACHINE is an app created with React.js that let you create a list of task about your daily life. You can add a new tasks and once you complete it you can either marke it as completed or you can delete it and add a new task. You will only need to write your daily To-Do itinerary and you will not miss anything at the end of the day/month</p>
+<a href="https://developerleonardo.github.io/todo-titan/" target="_blank"><img src="https://gcdnb.pbrd.co/images/nb5aoquR4ra7.png?o=1" width="400" alt="To-Do Titan"></a>
+<p><a href="https://github.com/developerleonardo/todo-titan" target="_blank"><img src="https://img.shields.io/badge/logo-github-00F7FF%3Fgithub%3Dcode?style=plastic&logo=github&logoColor=black&label=Code&labelColor=white&color=%2300F7FF"></a></p>
+<p>To-Do Titan is a powerful and intuitive task management app designed to streamline your daily life. Built with React, Vite.js, and TailwindCSS, To-Do Titan offers a seamless and efficient experience for organizing your tasks. With To-Do Titan, you can easily create, manage, and track your daily to-do lists. Add new tasks with ease, mark them as completed, or delete them as needed. Simply jot down your daily itinerary, and let To-Do Titan ensure you stay on top of everything throughout the day and month. Never miss a task again with To-Do Titan—your ultimate productivity companion.</p>
 </div>
   
 </table>                                                                                 
