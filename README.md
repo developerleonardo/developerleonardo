@@ -1,13 +1,17 @@
-# 💫 About Me:
-I'm a Frontend developer based in Medellin, Colombia. I'm passionate about creating and coding beautiful and unique websites
+<h1 align="center"><b>Hi , I'm Leonardo Salazar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
 
-<img src="https://gcdnb.pbrd.co/images/1WaAqIYmPePP.png?o=1">
+# 💫 About Me:
+I am a Frontend developer and software programmer student.<br>I love to learn and build something new, productive, innovative and creative.<br>- 👯 I’m looking forward to collaborate on open source projects.<br> - ✔ Ask me about anything, I am happy to help<br>
+
+<img src="https://i.imgur.com/899wBFB.png">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-salazar-serna/) 
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## Some of my projects
 <div>
@@ -16,7 +20,7 @@ I'm a Frontend developer based in Medellin, Colombia. I'm passionate about creat
 <td width="50%">
 <h3 align="center">Shopi</h3>
 <div align="center">
-<a href="https://developerleonardo.github.io/Shopi/" target="_blank"><img src="https://i.imgur.com/zMl7Sg6.png" width="400" alt="Shopi"></a>
+<a href="https://shopi-livid.vercel.app/" target="_blank"><img src="https://i.imgur.com/zMl7Sg6.png" width="400" alt="Shopi"></a>
 <p><a href="https://github.com/developerleonardo/Shopi" target="_blank"><img src="https://img.shields.io/badge/logo-github-00F7FF%3Fgithub%3Dcode?style=plastic&logo=github&logoColor=black&label=Code&labelColor=white&color=%2300F7FF"></a></p>
 <p>This is an ecommerce website and it was builded with React Vite.js and the style was done with TailwindCSS. This website is using a fake API and you can see all the products on it. Also it is possible to filter the products by category and by name. To navigate through all the application you should sign up by using any username and any email. For example you can type Michael and username@example.com. After doing this you can explote all the features of this project. IMPORTANT: once you open the demo, click on the menu and then click on sign in. For more information please visit the repo and follow the instructions</p>
 </div>      
