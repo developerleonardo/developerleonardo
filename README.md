@@ -20,18 +20,18 @@ I am a Frontend developer and software programmer student.<br>I love to learn an
 <td width="50%">
 <h3 align="center">Shopi</h3>
 <div align="center">
-<a href="https://shopi-livid.vercel.app/" target="_blank"><img src="https://i.imgur.com/zMl7Sg6.png" width="400" alt="Shopi"></a>
+<a href="https://shopi-livid.vercel.app/" target="_blank"><img src="https://i.imgur.com/zMl7Sg6.png" width="400" height="220" alt="Shopi"></a>
 <p><a href="https://github.com/developerleonardo/Shopi" target="_blank"><img src="https://img.shields.io/badge/logo-github-00F7FF%3Fgithub%3Dcode?style=plastic&logo=github&logoColor=black&label=Code&labelColor=white&color=%2300F7FF"></a></p>
-<p>This is an ecommerce website and it was builded with React Vite.js and the style was done with TailwindCSS. This website is using a fake API and you can see all the products on it. Also it is possible to filter the products by category and by name. To navigate through all the application you should sign up by using any username and any email. For example you can type Michael and username@example.com. After doing this you can explote all the features of this project. IMPORTANT: once you open the demo, click on the menu and then click on sign in. For more information please visit the repo and follow the instructions</p>
+<p>This is an ecommerce website and it was builded with React Vite.js and the style was done with TailwindCSS. This website is using a fake API and you can see all the products on it. For more information please visit the repo and follow the instructions</p>
 </div>      
 </td>
 
 <td width="50%">
 <h3 align="center">To-Do Titan</h3>
 <div align="center">
-<a href="https://developerleonardo.github.io/todo-titan/" target="_blank"><img src="https://gcdnb.pbrd.co/images/nb5aoquR4ra7.png?o=1" width="230" alt="To-Do Titan"></a>
+<a href="https://developerleonardo.github.io/todo-titan/" target="_blank"><img src="https://i.imgur.com/4PelNDX.jpg" width="400" height="220" alt="To-Do Titan"></a>
 <p><a href="https://github.com/developerleonardo/todo-titan" target="_blank"><img src="https://img.shields.io/badge/logo-github-00F7FF%3Fgithub%3Dcode?style=plastic&logo=github&logoColor=black&label=Code&labelColor=white&color=%2300F7FF"></a></p>
-<p>To-Do Titan is a powerful and intuitive task management app designed to streamline your daily life. Built with React, Vite.js, and TailwindCSS, To-Do Titan offers a seamless and efficient experience for organizing your tasks. With To-Do Titan, you can easily create, manage, and track your daily to-do lists. Add new tasks with ease, mark them as completed, or delete them as needed. Simply jot down your daily itinerary, and let To-Do Titan ensure you stay on top of everything throughout the day and month. Never miss a task again with To-Do Titan—your ultimate productivity companion.</p>
+<p>To-Do Titan is a powerful and intuitive task management app designed to streamline your daily life. Built with React, Vite.js, and TailwindCSS.</p>
 </div>
   
 </table>                                                                                 
@@ -43,11 +43,11 @@ I am a Frontend developer and software programmer student.<br>I love to learn an
 <td width="50%">
 <h3 align="center">Org</h3>
 <div align="center">                                       
-<a href="https://org-six-chi.vercel.app/" target="_blank"><img src="https://imgur.com/Wa723Ln.png" width="400" alt="Org"></a>
+<a href="https://org-six-chi.vercel.app/" target="_blank"><img src="https://i.imgur.com/K7S5Hnn.png" width="400" height="230" alt="Org"></a>
 <br>
 <p><a href="https://github.com/developerleonardo/org" target="_blank"><img src="https://img.shields.io/badge/logo-github-00F7FF%3Fgithub%3Dcode?style=plastic&logo=github&logoColor=black&label=Code&labelColor=white&color=%2300F7FF"></a></p>
 </p>This is a project builded using React with create-react-app.
-On this project you can add teams and new collaborators to your teams, you just have to fill one of the forms depending on what you want to add and you will see below the added team or collaborator. Besides you can customize the color of your teams, delete a collaborator and select your favorite collaborator.</p>
+On this project you can add teams and new collaborators to your teams, you just have to fill one of the forms depending on what you want to add and you will see below the added team or collaborator.</p>
 </div>   
 </td>
 
@@ -56,7 +56,7 @@ On this project you can add teams and new collaborators to your teams, you just 
 <div align="center">
 <a href="https://developerleonardo.github.io/encriptador-de-texto/" target="_blank"><img src="https://gcdnb.pbrd.co/images/hjv8Er0iMZGZ.png?o=1" width="400" alt="Text Encryptor"></a>
 <p><a href="https://github.com/developerleonardo/encriptador-de-texto" target="_blank"><img src="https://img.shields.io/badge/logo-github-00F7FF%3Fgithub%3Dcode?style=plastic&logo=github&logoColor=black&label=Code&labelColor=white&color=%2300F7FF"></a></p>
-<p>This application can encrypt a text making it unreadable. You can send to someone the encrypted text and the other person can use the same application to read the secret message. The application only accepts lower case letters and it does not accept special characters. This project was done using javascript, CSS3 and HTML5</p>
+<p>This application can encrypt a text making it unreadable. This project was done using javascript, CSS3 and HTML5</p>
 </div>                                                                          
 </td>
 </table>                                                                                 
