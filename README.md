@@ -18,20 +18,20 @@ I am a Frontend developer and software programmer student.<br>I love to learn an
 <table>
 <tr>
 <td width="50%">
+<h3 align="center">Trello Board</h3>
+<div align="center">
+<a href="https://trello-board-gamma.vercel.app/" target="_blank"><img src="https://i.imgur.com/Q1LYMQX.png" width="400" height="220" alt=""></a>
+<p><a href="https://github.com/developerleonardo/trello-board" target="_blank"><img src="https://img.shields.io/badge/logo-github-00F7FF%3Fgithub%3Dcode?style=plastic&logo=github&logoColor=black&label=Code&labelColor=white&color=%2300F7FF"></a></p>
+<p>Trello board with full functionality for creating, editing, and deleting lists and cards. I designed the application from scratch using Figma.</p>
+</div>      
+</td>
+
+<td width="50%">
 <h3 align="center">Shopi</h3>
 <div align="center">
 <a href="https://shopi-livid.vercel.app/" target="_blank"><img src="https://i.imgur.com/zMl7Sg6.png" width="400" height="220" alt="Shopi"></a>
 <p><a href="https://github.com/developerleonardo/Shopi" target="_blank"><img src="https://img.shields.io/badge/logo-github-00F7FF%3Fgithub%3Dcode?style=plastic&logo=github&logoColor=black&label=Code&labelColor=white&color=%2300F7FF"></a></p>
 <p>This is an ecommerce website and it was builded with React Vite.js and the style was done with TailwindCSS. This website is using a fake API and you can see all the products on it. For more information please visit the repo and follow the instructions</p>
-</div>      
-</td>
-
-<td width="50%">
-<h3 align="center">To-Do Titan</h3>
-<div align="center">
-<a href="https://developerleonardo.github.io/todo-titan/" target="_blank"><img src="https://i.imgur.com/4PelNDX.jpg" width="400" height="220" alt="To-Do Titan"></a>
-<p><a href="https://github.com/developerleonardo/todo-titan" target="_blank"><img src="https://img.shields.io/badge/logo-github-00F7FF%3Fgithub%3Dcode?style=plastic&logo=github&logoColor=black&label=Code&labelColor=white&color=%2300F7FF"></a></p>
-<p>To-Do Titan is a powerful and intuitive task management app designed to streamline your daily life. Built with React, Vite.js, and TailwindCSS.</p>
 </div>
   
 </table>                                                                                 
@@ -41,22 +41,22 @@ I am a Frontend developer and software programmer student.<br>I love to learn an
 <table>
 <tr>  
 <td width="50%">
-<h3 align="center">Org</h3>
+<h3 align="center">To-Do Titan</h3>
 <div align="center">                                       
-<a href="https://org-six-chi.vercel.app/" target="_blank"><img src="https://i.imgur.com/K7S5Hnn.png" width="400" height="230" alt="Org"></a>
+<a href="https://developerleonardo.github.io/todo-titan/" target="_blank"><img src="https://i.imgur.com/4PelNDX.jpg" width="400" height="230" alt="To-Do Titan"></a>
 <br>
-<p><a href="https://github.com/developerleonardo/org" target="_blank"><img src="https://img.shields.io/badge/logo-github-00F7FF%3Fgithub%3Dcode?style=plastic&logo=github&logoColor=black&label=Code&labelColor=white&color=%2300F7FF"></a></p>
-</p>This is a project builded using React with create-react-app.
-On this project you can add teams and new collaborators to your teams, you just have to fill one of the forms depending on what you want to add and you will see below the added team or collaborator.</p>
+<p><a href="https://github.com/developerleonardo/todo-titan" target="_blank"><img src="https://img.shields.io/badge/logo-github-00F7FF%3Fgithub%3Dcode?style=plastic&logo=github&logoColor=black&label=Code&labelColor=white&color=%2300F7FF"></a></p>
+</p>To-Do Titan is a powerful and intuitive task management app designed to streamline your daily life. Built with React, Vite.js, and TailwindCSS.</p>
 </div>   
 </td>
 
 <td width="50%">
-<h3 align="center">Text encryptor</h3>
+<h3 align="center">Org</h3>
 <div align="center">
-<a href="https://developerleonardo.github.io/encriptador-de-texto/" target="_blank"><img src="https://gcdnb.pbrd.co/images/hjv8Er0iMZGZ.png?o=1" width="400" alt="Text Encryptor"></a>
-<p><a href="https://github.com/developerleonardo/encriptador-de-texto" target="_blank"><img src="https://img.shields.io/badge/logo-github-00F7FF%3Fgithub%3Dcode?style=plastic&logo=github&logoColor=black&label=Code&labelColor=white&color=%2300F7FF"></a></p>
-<p>This application can encrypt a text making it unreadable. This project was done using javascript, CSS3 and HTML5</p>
+<a href="https://org-six-chi.vercel.app/" target="_blank"><img src="https://i.imgur.com/K7S5Hnn.png" width="400" alt="Org"></a>
+<p><a href="https://github.com/developerleonardo/org" target="_blank"><img src="https://img.shields.io/badge/logo-github-00F7FF%3Fgithub%3Dcode?style=plastic&logo=github&logoColor=black&label=Code&labelColor=white&color=%2300F7FF"></a></p>
+<p>This is a project builded using React with create-react-app.
+On this project you can add teams and new collaborators to your teams, you just have to fill one of the forms depending on what you want to add and you will see below the added team or collaborator.</p>
 </div>                                                                          
 </td>
 </table>                                                                                 
